@@ -1,5 +1,5 @@
 <div align = "center">
-  <h3>Welcome Jongwook's Github!:blush:</h3>
+  <h2>Welcome Jongwook's Github!:blush:</h2>
 <br>
 
 ### :link:Links:link:
@@ -13,5 +13,8 @@
 
 
 ### :exclamation:Tech to using:exclamation:
-<img src = "https://user-images.githubusercontent.com/92356829/136915493-ed08fd70-b945-42f5-9c3c-1f3c18b873a8.png"> <img src = "https://user-images.githubusercontent.com/92356829/136915839-91cdd1dc-7a84-4d21-8325-202937e24fbb.png"> <img src = "https://user-images.githubusercontent.com/92356829/136915929-8c778191-ee69-45d6-95df-ac30d81f10cc.png">
-
+<img src="https://img.shields.io/badge/Java-F05032?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-229332A?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
