@@ -1,5 +1,5 @@
 <div align = "center">
-  <h2>Welcome Jongwook's Github!:blush:</h2>
+  <h2>Welcome to Jongwook's Github!:blush:</h2>
 <br>
 
 ### :link:Links:link:
