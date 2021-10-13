@@ -1,6 +1,13 @@
 <div align = "center">
   <h2>Welcome to Jongwook's Github!:blush:</h2>
 <br>
+종욱의 깃허브에 오신걸 환영합니다.<br>
+저의 깃허브에선 제가 어떤 과정을 거치면서 성장하였고,<br>
+어떤 프로젝트를 수행했는지 알 수 있습니다.<br>
+제 목표는 좀 더 편리한 세상을 만들기 위해 노력하는 것이며,<br>
+제 깃허브에 오신 여러분들은 오늘도 편리한 하루를 보내셨으면 좋겠습니다.<br>
+
+  
 
 ### :link:Links:link:
 <a href = "https://blog.naver.com/whddnr5330">
